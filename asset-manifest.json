@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "https://vikashkumar2701.github.io/csb-5b6hz/static/css/main.dbc8546f.chunk.css",
+    "main.js": "https://vikashkumar2701.github.io/csb-5b6hz/static/js/main.5e422d3e.chunk.js",
+    "main.js.map": "https://vikashkumar2701.github.io/csb-5b6hz/static/js/main.5e422d3e.chunk.js.map",
+    "runtime-main.js": "https://vikashkumar2701.github.io/csb-5b6hz/static/js/runtime-main.fd0a8685.js",
+    "runtime-main.js.map": "https://vikashkumar2701.github.io/csb-5b6hz/static/js/runtime-main.fd0a8685.js.map",
+    "static/css/2.cbedb215.chunk.css": "https://vikashkumar2701.github.io/csb-5b6hz/static/css/2.cbedb215.chunk.css",
+    "static/js/2.c69c552c.chunk.js": "https://vikashkumar2701.github.io/csb-5b6hz/static/js/2.c69c552c.chunk.js",
+    "static/js/2.c69c552c.chunk.js.map": "https://vikashkumar2701.github.io/csb-5b6hz/static/js/2.c69c552c.chunk.js.map",
+    "index.html": "https://vikashkumar2701.github.io/csb-5b6hz/index.html",
+    "static/css/2.cbedb215.chunk.css.map": "https://vikashkumar2701.github.io/csb-5b6hz/static/css/2.cbedb215.chunk.css.map",
+    "static/css/main.dbc8546f.chunk.css.map": "https://vikashkumar2701.github.io/csb-5b6hz/static/css/main.dbc8546f.chunk.css.map",
+    "static/js/2.c69c552c.chunk.js.LICENSE.txt": "https://vikashkumar2701.github.io/csb-5b6hz/static/js/2.c69c552c.chunk.js.LICENSE.txt",
+    "static/media/1.6b659925.svg": "https://vikashkumar2701.github.io/csb-5b6hz/static/media/1.6b659925.svg",
+    "static/media/2.6beaab13.svg": "https://vikashkumar2701.github.io/csb-5b6hz/static/media/2.6beaab13.svg",
+    "static/media/3.78986054.svg": "https://vikashkumar2701.github.io/csb-5b6hz/static/media/3.78986054.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fd0a8685.js",
+    "static/css/2.cbedb215.chunk.css",
+    "static/js/2.c69c552c.chunk.js",
+    "static/css/main.dbc8546f.chunk.css",
+    "static/js/main.5e422d3e.chunk.js"
+  ]
+}
